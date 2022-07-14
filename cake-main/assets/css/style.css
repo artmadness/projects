@@ -4084,7 +4084,7 @@ div#carouselExampleControls {
   }
   /* love */
   .hero__item {
-    height: 570px;
+    height: 470px;
   }
   .spad {
   padding-bottom:0px;
@@ -4114,7 +4114,11 @@ h5.card-title {
   width: 40%!important;
   padding: 5px 0px!important;
 }
+.spad {
+  padding-top: 30px;
 }
+}
+
 /*  */
 
   .hero__text {
