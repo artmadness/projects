@@ -4115,7 +4115,10 @@ h5.card-title {
   padding: 5px 0px!important;
 }
 .spad {
-  padding-top: 30px;
+  padding-top: 15px;
+}
+.marquee__line {
+  animation-duration: 25s;
 }
 }
 
